@@ -29,7 +29,7 @@ const CONFIG = {
 	weatherKey: '288752458e9b0130f398aa44af330a02', // Write here your API Key
 	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'pt', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '34.049',
@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'VirusTotal',
+			icon: 'virustotal',
+			link: 'https://virustotal.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'DuckDUckGo',
+			icon: 'duck',
+			link: 'https://duckduckgo.com/',
 		},
 		{
 			id: '5',
