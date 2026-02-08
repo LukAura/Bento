@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'LukAura',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
