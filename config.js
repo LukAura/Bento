@@ -66,13 +66,13 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'VirusTotal',
-			icon: 'virustotal',
+			icon: 'virus',
 			link: 'https://virustotal.com',
 		},
 		{
 			id: '4',
-			name: 'DuckDUckGo',
-			icon: 'duck',
+			name: 'DuckDuckGo',
+			icon: 'magnifyingglass',
 			link: 'https://duckduckgo.com/',
 		},
 		{
